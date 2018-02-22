@@ -1,6 +1,11 @@
-# React Native Exif
+# React Native Exif LL fork
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors) <br />
 >An image exif reader
+
+NB This is a fork of https://github.com/francisco-sanchez-molina/react-native-exif which adds backwards compatibility with react-native < 0.47.
+This will not be maintatined once this PR  has been merged
+
+
 
 ## Installation
 ```sh
