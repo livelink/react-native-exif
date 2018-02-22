@@ -3,7 +3,7 @@
 >An image exif reader
 
 NB This is a fork of https://github.com/francisco-sanchez-molina/react-native-exif which adds backwards compatibility with react-native < 0.47.
-This will not be maintatined once this PR  has been merged
+This will not be maintatined once this PR https://github.com/francisco-sanchez-molina/react-native-exif/pull/21 has been merged
 
 
 
@@ -21,7 +21,7 @@ npm install react-native-exif --save
 ### getExif
 
 ```javascript
-import Exif from 'react-native-exif'
+import Exif from 'react-native-exif-ll'
 
 ...
 
